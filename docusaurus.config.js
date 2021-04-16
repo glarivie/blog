@@ -73,6 +73,7 @@ module.exports = {
           showReadingTime: true,
           blogTitle: 'Docusaurus blog!',
           blogDescription: 'A docusaurus powered blog!',
+          include: ['*.md', '*.mdx'],
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
