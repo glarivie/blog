@@ -4,33 +4,33 @@
         <title>My Site Blog</title>
         <link>https://glarivie.github.io/</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Fri, 16 Apr 2021 21:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Apr 2021 21:26:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Markdown Features]]></title>
-            <link>https://glarivie.github.io/markdown-features</link>
+            <link>https://glarivie.github.io/blog/markdown-features</link>
             <guid>Markdown Features</guid>
-            <pubDate>Fri, 16 Apr 2021 21:19:41 GMT</pubDate>
+            <pubDate>Fri, 16 Apr 2021 21:26:53 GMT</pubDate>
             <description><![CDATA[Docusaurus supports the Markdown syntax and has some additional features.]]></description>
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://glarivie.github.io/welcome</link>
+            <link>https://glarivie.github.io/blog/welcome</link>
             <guid>welcome</guid>
             <pubDate>Thu, 30 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></description>
         </item>
         <item>
             <title><![CDATA[Hello]]></title>
-            <link>https://glarivie.github.io/hello-world</link>
+            <link>https://glarivie.github.io/blog/hello-world</link>
             <guid>hello-world</guid>
             <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2 alpha.]]></description>
         </item>
         <item>
             <title><![CDATA[Hola]]></title>
-            <link>https://glarivie.github.io/hola</link>
+            <link>https://glarivie.github.io/blog/hola</link>
             <guid>hola</guid>
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
