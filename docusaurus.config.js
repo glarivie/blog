@@ -17,12 +17,6 @@ module.exports = {
         src: 'img/logo.svg',
       },
       items: [
-        // {
-        //   to: 'docs/',
-        //   activeBasePath: 'docs',
-        //   label: 'Docs',
-        //   position: 'left',
-        // },
         {to: '/', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
@@ -34,15 +28,6 @@ module.exports = {
     footer: {
       style: 'dark',
       links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Getting Started',
-              to: 'docs/',
-            },
-          ],
-        },
         {
           title: 'Community',
           items: [
@@ -83,7 +68,7 @@ module.exports = {
       {
         docs: false,
         blog: {
-          path: './blog',
+          path: './articles',
           routeBasePath: '/',
           showReadingTime: true,
           blogTitle: 'Docusaurus blog!',
